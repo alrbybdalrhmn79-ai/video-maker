@@ -1,6 +1,6 @@
-# Content Maker - Content Creator Tools & Resources
+# Shot Maker - أدوات وموارد صانعي المحتوى
 
-A comprehensive platform providing tools, resources, and guides to help content creators grow their audience and improve their skills.
+منصة شاملة توفر أدوات وموارد ودليل لمساعدة صانعي المحتوى على تنمية جمهورهم وتحسين مهاراتهم.
 
 ## 🌟 Features
 

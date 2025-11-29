@@ -1,4 +1,4 @@
-// Content Maker JavaScript Tools
+// Shot Maker JavaScript Tools
 
 // Hashtag Generator
 function generateHashtags() {

@@ -1,6 +1,6 @@
-# 🚀 Content Maker Deployment Guide
+# 🚀 دليل نشر Shot Maker
 
-Follow these steps to deploy your Content Maker website online.
+اتبع هذه الخطوات لنشر موقع Shot Maker الخاص بك عبر الإنترنت.
 
 ## Option 1: GitHub Pages (Free & Recommended)
 
@@ -121,7 +121,7 @@ After deployment, consider:
 
 ## 🎉 Congratulations!
 
-Your Content Maker website is now live! Share it with fellow content creators and start helping others grow their audience.
+موقع Shot Maker الخاص بك الآن مباشر! شاركه مع صانعي المحتوى الآخرين وبدأ في مساعدة الآخرين على تنمية جمهورهم.
 
 ---
 
